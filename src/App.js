@@ -1,5 +1,5 @@
 import './App.css';
-import HomePage from './Homepage';
+import HomePage from './HomePage';
 import ScrollAnimation from './ScrollAnimation';
 import { Element } from 'react-scroll';
 import { useSpring, animated } from 'react-spring';
