@@ -1,0 +1,43 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+/* Text color for h1, h2, and p */
+.custom-text {
+  color: #250409;
+}
+
+.custom-noto-sans {
+  font-family: 'Noto Sans Adlam Unjoined', sans-serif;
+}
+
+/* Section styles */
+.custom-section {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 40px;
+}
+
+.custom-name-occupation {
+  background-color: #F5A3AF;
+}
+
+.custom-about {
+  background-color: #FCE3E7;
+}
+
+.custom-portfolio {
+  background-color: #13AA93;
+}
+
+.custom-contact {
+  background-color: #FCE3E7;
+}
+
+#dropdown-button:hover + #dropdown-content {
+  display: block;
+}
