@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ReginaldGreen02/static/css/main.1a143538.css",
+    "main.js": "/ReginaldGreen02/static/js/main.3c8c7009.js",
+    "static/js/787.bb7cce89.chunk.js": "/ReginaldGreen02/static/js/787.bb7cce89.chunk.js",
+    "index.html": "/ReginaldGreen02/index.html",
+    "main.1a143538.css.map": "/ReginaldGreen02/static/css/main.1a143538.css.map",
+    "main.3c8c7009.js.map": "/ReginaldGreen02/static/js/main.3c8c7009.js.map",
+    "787.bb7cce89.chunk.js.map": "/ReginaldGreen02/static/js/787.bb7cce89.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a143538.css",
+    "static/js/main.3c8c7009.js"
+  ]
+}
